@@ -8,7 +8,7 @@ OLED Display SD1306 128x64
 
 ## Wiring
 
-TTGO |SD1306
+TTGO ESP32 |OLED SD1306
 ---------|--------
 GND|GND
 5v*|VCC

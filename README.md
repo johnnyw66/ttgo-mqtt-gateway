@@ -16,4 +16,4 @@ GND|GND
 19| SCL
 
 * Alternatively use 3.3v
-![TTGO MQTT Gateway](/images/ttgo.jpg)
+![TTGO MQTT Gateway](/images/ttgo_small.jpg)
